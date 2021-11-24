@@ -1,4 +1,4 @@
-.titre {
+.header {
 
     height: 28%;
     width: 100%;
@@ -37,13 +37,13 @@ body {
     width: 100%;
 }
 
-.bio{
+.article{
     margin-left: 15px;
     margin-right: 15px;
     font-family: 'Brush Script MT', cursive, serif;
 }
 
-.last-part{
+.footer{
     margin-left: 15px;
     margin-right: 15px;
     font-family: 'Brush Script MT', cursive, serif;
